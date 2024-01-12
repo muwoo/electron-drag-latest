@@ -1,5 +1,5 @@
 {
-  "name": "electron-drag",
+  "name": "electron-drag-latest",
   "version": "2.0.0",
   "description": "Window dragging for electron applications",
   "main": "index.js",
@@ -32,7 +32,8 @@
     "try-require": "^1.2.1"
   },
   "devDependencies": {
-    "electron": "^10.1.1",
+    "electron": "^25.9.7",
+    "electron-drag": "^2.0.0",
     "electron-rebuild": "^2.0.2",
     "standard": "^14.3.4"
   }
